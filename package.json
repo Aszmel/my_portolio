@@ -3,19 +3,19 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Aszmel.github.io/portfolio/",
+  "homepage": "https://Aszmel.github.io/my_portfolio/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aszmel/portfolio.git"
+    "url": "git+https://github.com/Aszmel/my_portfolio.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Aszmel/portfolio/issues"
+    "url": "https://github.com/Aszmel/my_portfolio/issues"
   },
   "dependencies": {
     "gh-pages": "^2.0.1"
